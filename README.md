@@ -2,7 +2,7 @@
 You know the drill. A beginner friendly repo built while keeping the spirit of Hacktoberfest in mind; this year's topic: Kotlin.
 <br><br>
 
-**INSTRUCTIONS FOR BEGINNERS:**  <br><br>
+**INSTRUCTIONS FOR BEGINNERS:**  <br>
 Goto the "Basics" folder and then send in a pull request. 
 Examples include: The 4 basic arithmetic ops (a full-blown code for basic arithmetic calclator will also be considered as a basic folder contri); basic I/O ops and the like.
 
