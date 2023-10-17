@@ -29,7 +29,7 @@ Else if your code is truly _extraordinary_, it will become a part of the "Misc" 
 **THIS YEAR'S REPO'S TOPIC DOESN'T MATCH YOUR INTEREST?** <br>
 Feel free to browse through my profile and find an existing repo that you think you can contribute to; every hacktoberfest, I make a repo for a specific topic and even name them with the Hacktoberfest string explicitly for faster identification. The entire point of me doing this is to encourage and welcome as many devs as I can to the world of open source, no matter their skill level.  
 
-https://github.com/taanngent and I run and will continue to run repos like this one every single hacktoberfest for as long as possible. \
+I run and will continue to run repos like this one every single hacktoberfest for as long as possible. \
 Let's keep the spirit of hacktoberfest alive, a contribution that is made in good faith is all that matters, big or small is an invalid question.
 
 <br>
